@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-    {process.env.NAME}
+    {process.env.REACT_APP_NAME}
         </a>
       </header>
     </div>
